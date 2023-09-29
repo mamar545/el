@@ -1,1 +1,2 @@
 1 = roma 
+2 = timur p
