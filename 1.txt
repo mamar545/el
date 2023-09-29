@@ -1,3 +1,2 @@
 1 = roma 
-sadsa
-sadsa
+2 = timur p
